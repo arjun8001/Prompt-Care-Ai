@@ -36,6 +36,6 @@ Contact information for support, feedback, or inquiries related to PromptCare AI
 Special thanks to the following contributors for their invaluable input and support in the development of PromptCare AI:
 
 - Arjun Gupta
-- Guryash Dhall
+- Guryash Dhall ([github.com/guryashdhall](https://github.com/guryashdhall))
 - Aadhith KC
 - Pramir Kancho
